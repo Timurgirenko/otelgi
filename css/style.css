@@ -1,0 +1,800 @@
+header{
+max-width: 100%; height: auto;
+background: url(../bg/first.png);
+}
+
+.first{
+    max-width: 100%; height: auto;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 0px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.49) -4.4%, rgba(77, 71, 68, 0) 82.8%);
+background-blend-mode: multiply;
+}
+.hr{
+    position: absolute;
+width: 1920px;
+height: 0px;
+left: 0px;
+top: 125px;
+border: 1px solid rgba(255, 255, 255, 0.16);
+}
+
+.hr2{
+    position: absolute;
+width: 124px;
+height: 0px;
+left: 1400px;
+top: 50px;
+
+border: 1px solid rgba(255, 255, 255, 0.16);
+transform: rotate(-90deg);
+}
+
+.menu_item{
+    list-style-type: none;
+}
+
+.menu{
+    position: absolute;
+width: 79px;
+height: 18px;
+left: 65px;
+top: 53px;
+list-style-type: none;
+}
+
+.en{
+    position: absolute;
+width: 21px;
+height: 18px;
+left: 209px;
+top: 53px;
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 90%;
+color: #FFFFFF;
+list-style-type: none;
+}
+
+.phone{
+    position: absolute;
+width: 24px;
+height: 24px;
+left: 292px;
+top: 50px;
+
+}
+
+.hotel{
+    position: absolute;
+width: 270px;
+height: 44px;
+left: 825px;
+top: 40px;
+}
+
+.book_now{
+    position: absolute;
+width: 255px;
+height: 124px;
+left: 1665px;
+top: 0px;
+}
+
+.text_promo{
+    position: absolute;
+width: 502px;
+height: 220px;
+left: 255px;
+top: 477px;
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 110px;
+line-height: 110px;
+color: #FFFFFF;
+}
+
+.Marylebone_Inn_Hotel{
+position: absolute;
+width: 1411px;
+height: 571px;
+left: 255px;
+top: 1280px;
+}
+
+.about_the_hotel{
+    position: absolute;
+width: 594px;
+height: 78px;
+left: 1px;
+top: 41px;
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 66px;
+line-height: 78px;
+color: #424454;
+}
+
+.customer{
+    position: absolute;
+width: 230px;
+height: 29px;
+left: 1px;
+top: 169px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 160%;
+letter-spacing: 0.25em;
+text-transform: uppercase;
+color: #A18F88;
+}
+
+.about{
+    position: absolute;
+width: 740px;
+height: 162px;
+left: 1px;
+top: 248px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 170%;
+color: #424454;
+}
+
+.street{
+    position: absolute;
+width: 601px;
+height: 571px;
+left: 810px;
+}
+
+.View_more{
+    position: absolute;
+width: 155px;
+height: 57px;
+left: 0px;
+top: 510px;
+background: transparent;
+border: none !important;
+}
+
+.Rooms{
+    position: absolute;
+width: 1410px;
+height: 811px;
+left: 255px;
+top: 2051px;
+}
+
+.room{
+    position: absolute;
+width: 545px;
+height: 78px;
+left: 1px;
+top: 0px;
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 66px;
+line-height: 78px;
+color: #424454;
+}
+
+.about_room{
+    position: absolute;
+width: 1409px;
+height: 62px;
+left: 1px;
+top: 118px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 170%;
+color: #424454;
+}
+
+.Single_room{
+    position: absolute;
+    width: 450px;
+    height: 351px;
+    left: 0px;
+    top: 220px;
+}
+
+.Double_room{
+    position: absolute;
+    width: 450px;
+    height: 351px;
+    left: 480px;
+    top: 220px;
+}
+
+.Family{
+    position: absolute;
+    width: 450px;
+    height: 351px;
+    left: 960px;
+    top: 220px;
+}
+
+.Single_room1{
+    position: absolute;
+left: 0px;
+right: 1270px;
+top: 591px;
+bottom: 177px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 170%;
+color: #424454;
+}
+
+.Single_room2{
+    position: absolute;
+left: 0px;
+right: 960px;
+top: 654px;
+bottom: 103px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 170%;
+color: #424454;
+}
+
+.Double_room1{
+    position: absolute;
+left: 480px;
+right: 778px;
+top: 591px;
+bottom: 177px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 170%;
+color: #424454;
+}
+
+.Double_room2{
+    position: absolute;
+    left: 480px;
+    right: 481px;
+    top: 654px;
+    bottom: 103px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 170%;
+color: #424454;
+}
+
+.Family1{
+    position: absolute;
+    left: 960px;
+    right: 374px;
+    top: 591px;
+    bottom: 177px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 170%;
+    color: #424454;
+}
+
+.Family2{
+    position: absolute;
+    left: 960px;
+    right: 1px;
+    top: 654px;
+    bottom: 103px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 170%;
+color: #424454;
+}
+
+.img_bridge{
+    position: absolute;
+width: 1920px;
+height: 970px;
+left: 0px;
+top: 3042px;
+}
+
+.bridge_button_left{
+    position: absolute;
+width: 64px;
+height: 64px;
+left: 1460px;
+top: 3917px;
+background: transparent;
+border: none !important;
+}
+
+.bridge_button_ride{
+    position: absolute;
+width: 64px;
+height: 64px;
+left: 1553px;
+top: 3917px;
+background: transparent;
+border: none !important;
+}
+
+.locate{
+    position: absolute;
+width: 1424px;
+height: 441px;
+left: 0px;
+top: 3917px;
+background: #F9F7F7;
+}
+
+.loc{
+    position: absolute;
+width: 562px;
+height: 78px;
+left: 255px;
+top: 95px;
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 66px;
+line-height: 78px;
+color: #424454;
+}
+
+.about_loc{
+    position: absolute;
+width: 1035px;
+height: 108px;
+left: 255px;
+top: 218px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 170%;
+color: #424454;
+}
+
+.servis{
+    position: absolute;
+width: 930px;
+height: 438px;
+left: 495px;
+top: 4546px;
+}
+
+.serv{
+    position: absolute;
+width: 738px;
+height: 110px;
+left: 96px;
+top: 0px;
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 110px;
+line-height: 100%;
+color: #A18F88;
+}
+
+.about_serv{
+    position: absolute;
+width: 930px;
+height: 135px;
+left: 0px;
+top: 175px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 170%;
+text-align: center;
+color: #424454;
+}
+
+.button_serv{
+    position: absolute;
+    left: 321px;
+    top: 360px;
+    background: transparent;
+border: none !important;
+}
+
+.discover{
+    position: absolute;
+width: 2145px;
+height: 826px;
+left: 0px;
+top: 5155px;
+background: #F9F7F7;
+}
+
+.discow{
+    position: absolute;
+left: 258px;
+right: 1541px;
+top: 100px;
+bottom: 697px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 160%;
+letter-spacing: 0.25em;
+text-transform: uppercase;
+color: #A18F88;
+}
+
+.Attractions{
+    position: absolute;
+left: 255px;
+right: 967px;
+top: 169px;
+bottom: 501px;
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 66px;
+line-height: 78px;
+color: #424454;
+}
+
+.Rectangle_68{
+    position: absolute;
+left: 255px;
+right: 1215px;
+top: 365px;
+bottom: 161px;
+}
+
+.r1{
+position: absolute;
+left: 285px;
+right: 1442px;
+top: 596px;
+bottom: 193px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 170%;
+color: #FFFFFF;
+}
+
+.Rectangle_59{
+    position: absolute;
+    left: 735px;
+    right: 735px;
+    top: 365px;
+    bottom: 161px;
+}
+
+.r2{
+    position: absolute;
+    left: 765px;
+    right: 839px;
+    top: 596px;
+    bottom: 193px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 170%;
+    color: #FFFFFF;
+}
+
+.Rectangle_60{
+    position: absolute;
+    left: 1215px;
+    right: 255px;
+    top: 365px;
+    bottom: 161px;
+}
+
+.r3{
+    position: absolute;
+    left: 1245px;
+    right: 539px;
+    top: 596px;
+    bottom: 193px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 170%;
+    color: #FFFFFF;
+}
+
+.Rectangle_61{
+    position: absolute;
+    left: 1695px;
+    right: 255px;
+    top: 365px;
+    bottom: 161px;
+}
+
+.r4{
+    position: absolute;
+    left: 1725px;
+    right: 119px;
+    top: 596px;
+    bottom: 193px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 170%;
+    color: #FFFFFF;
+}
+
+.hr3{
+    position: absolute;
+left: 11.98%;
+right: 69.74%;
+top: 90.19%;
+bottom: 9.69%;
+background: #424454;
+}
+
+.hr4{
+    position: absolute;
+left: 11.98%;
+right: 22.38%;
+top: 90.19%;
+bottom: 9.69%;
+background: #CCD3DD;
+}
+
+.basement{
+    position: absolute;
+    width: 1920px;
+    height: 500px;
+    left: 0px;
+    top: 5981px;    
+    background: #212121;
+}
+
+.logo{
+    position: absolute;
+left: 255px;
+right: 1376px;
+top: 75px;
+bottom: 305px;
+}
+
+.grm{
+    position: absolute;
+left: 855px;
+right: 927px;
+top: 86px;
+bottom: 260px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+color: #FFFFFF;
+}
+
+.basement_item{
+    margin-top: 25%;
+    color: #FFFFFF;
+}
+
+.hpo{
+    position: absolute;
+left: 1093px;
+right: 655px;
+top: 86px;
+bottom: 260px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+color: #FFFFFF;
+}
+
+.get{
+    position: absolute;
+left: 1335px;
+right: 450px;
+top: 81px;
+bottom: 402px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 140%;
+letter-spacing: 0.25em;
+text-transform: uppercase;
+color: #A18F88;
+}
+
+.telephone{
+    position: absolute;
+left: 1335px;
+right: 561px;
+top: 123px;
+bottom: 353px;
+}
+
+
+.number{
+    position: absolute;
+left: 1374px;
+right: 400px;
+top: 121px;
+bottom: 352px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 170%;
+color: #FFFFFF;
+}
+
+.mail{
+    position: absolute;
+left: 1340px;
+right: 566px;
+top: 176px;
+bottom: 313px;
+}
+
+.box{
+    position: absolute;
+left: 71.56%;
+right: 20.78%;
+top: 33.4%;
+bottom: 61.2%;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 170%;
+color: #FFFFFF;
+}
+
+.loce{
+    position: absolute;
+left: 1340px;
+right: 566px;
+top: 218px;
+bottom: 264px;
+}
+
+.lo{
+    position: absolute;
+    left: 1344px;
+    right: 570px;
+    top: 222px;
+    bottom: 273px;
+    height: 6px;
+}
+
+.locet{
+    position: absolute;
+left: 71.56%;
+right: 17.24%;
+top: 42.6%;
+bottom: 52%;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 170%;
+color: #FFFFFF;
+}
+
+.twit{
+    position: absolute;
+left: 1340px;
+right: 566px;
+top: 272px;
+bottom: 216px;
+}
+
+.fb{
+    position: absolute;
+left: 71.72%;
+right: 27.03%;
+top: 53.2%;
+bottom: 42%;
+}
+
+.foot{
+    position: absolute;
+left: 13.28%;
+right: 13.28%;
+top: 72.2%;
+bottom: 27.8%;
+border: 1px solid #464646;
+}
+
+.privat{
+    position: absolute;
+left: 13.28%;
+right: 75.26%;
+top: 84.8%;
+bottom: 12.6%;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 100%;
+color: #FFFFFF;
+}
+
+.pow{
+    position: absolute;
+left: 38.8%;
+right: 57.4%;
+top: 84.8%;
+bottom: 12.6%;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 100%;
+color: #FFFFFF;
+}
+
+.hg{
+    position: absolute;
+left: 43.44%;
+right: 50.99%;
+top: 84.8%;
+bottom: 12.2%;
+}
+
+.otel{
+    position: absolute;
+left: 49.84%;
+right: 38.75%;
+top: 84.8%;
+bottom: 12.6%;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 100%;
+color: #FFFFFF;
+}
+
+.creators{
+    position: absolute;
+left: 81.77%;
+right: 13.28%;
+top: 84.8%;
+bottom: 12.6%;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 100%;
+text-align: right;
+color: #FFFFFF;
+}
